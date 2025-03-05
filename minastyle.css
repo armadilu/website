@@ -176,17 +176,18 @@ button:hover {
 }
 
 .social-icons a:hover i {
-    color: #b5838d;
+    color: #664a50;
 }
 
 .contact-section i {
-    color: #dfdadb;
+    color: #8b7575;
     margin-right: 5px;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background-color:  rgb(99, 71, 71);
+    background-color: rgba(254, 233, 233, 0.911);
+;
     margin-top: 50px;
 }
